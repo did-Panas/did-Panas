@@ -1,6 +1,6 @@
 Header
 
-About Me
+## About Me
 "High-Quality, Adaptive and Flexible Web-Page"
 
 Tech Stack
@@ -12,9 +12,7 @@ Tech Stack
 	Web Development:
 - cross-browser compatibility,
 - Responsible, Flexible, Adaptivity, Accessability
-- possible use of Pixel Perfect,
 - BEM methodology,
-- Parallax Scrolling,
 - SVG, Sprites, Webp, Animation,
 - writing of Simple, Logical and Understandable Code,
 - easy integration into CMS (Wordpress, Joomla, Bitrix, PrestaShop, OpenCart etc.)
