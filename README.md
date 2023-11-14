@@ -17,16 +17,15 @@
 <br>
 <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=did-Panas&theme=tokyonight)
+<br>
+<br>
+
 ### LANGUAGES:
 - Українська
 - English
 - Polski
 - Русский
-<br>
-<br>
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=did-Panas&theme=tokyonight)
 <br>
 <br>
 
@@ -37,8 +36,11 @@
 <br>
 <br>
 
-## FOLLOW ME
-- telegram
-- e-mail
-- viber
-- whatsapp
+## CONTACT ME
+
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](t.me/@OlegBash5)
+[![Viber](https://img.shields.io/badge/Viber-090909?style=for-the-badge&logo=viber)](viber://chat?number=+380975927962)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-090909?style=for-the-badge&logo=whatsapp)](https://wa.me/380975927962)
+
+e-mail: olegbash94@gmail.com
+
