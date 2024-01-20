@@ -27,7 +27,6 @@
 - Polski
 - Русский
 <br>
-<br>
 
 ### TIME OF WORK
 <li>Monday - Friday <br>
